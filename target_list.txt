@@ -1,0 +1,3 @@
+scrapy crawl bdp_scraper -a FIND_DESC=Eviction%20Attorney -a FIND_LOC_CITY=Atlanta -a FIND_LOC_STATE=GA -o eviction/csv_files/with_nothing/eviction_atlanta_with_nothing.csv
+scrapy crawl bdp_scraper -a FIND_DESC=Eviction%20Attorney -a FIND_LOC_CITY=Austin -a FIND_LOC_STATE=TX -o eviction/csv_files/with_nothing/eviction_austin_with_nothing.csv
+scrapy crawl bdp_scraper -a FIND_DESC=Eviction%20Attorney -a FIND_LOC_CITY=Boston -a FIND_LOC_STATE=MA -o eviction/csv_files/with_nothing/eviction_atlanta_with_nothing.csv

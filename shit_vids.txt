@@ -1,0 +1,16 @@
+atlanta
+austin
+charlotte
+chicago
+denver
+detroit
+houston
+long beach
+mesa
+miami
+new york
+portland
+raleigh
+sacramento
+san francisco
+seattle

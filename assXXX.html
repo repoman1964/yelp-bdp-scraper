@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+.video-thumbnail {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  margin: 30px;
+}
+
+  .video-thumbnail:before {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    content: "\f01d";
+    font-family: FontAwesome;
+    font-size: 100px;
+    color: #fff;
+    opacity: .8;
+    text-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
+  }
+
+  .video-thumbnail:hover:before {
+    color: #eee;
+  }
+
+    </style>
+</head>
+<body>
+    <h2>CSS: Play button overlay</h2>
+
+<div class="video-thumbnail">
+  <img src="https://responderbot.net/dui/atlanta/law-office-of-adam-d-brown-peachtree-corners.png" style="width:80%;" alt="Video thumbnail" />
+</div>
+
+
+
+
+
+    
+</body>
+</html>

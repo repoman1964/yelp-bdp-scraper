@@ -1,0 +1,100 @@
+csv_files/with_screenshots/dui/dui_mesa_with_screenshot.csv:R&R Law Group
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Office of Juanita Kay
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Aizman Law Firm
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Fix-A-Ticket
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:McGregor Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Barcena Law Offices
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Barcena Law Offices
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Barcena Law Offices
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Offices Of Bryan R Kazarian
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Offices of Hart J Levin
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Costen Ruiz Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Fix-A-Ticket
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:McGregor Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Office of Donald R. Hammond
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The H Law Group
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Tung T Pham
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Offices Of Bryan R Kazarian
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Fix Your Ticket
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Miller Law Firm
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of David J. Givot
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Manshoory Law Group
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Kent Law Firm
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Office of Jesse A Arana
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices Of Lisa Z. Liu
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Office of Ann Gottesman
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Offices of John W Bussman
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:McCready Law Group - Criminal Law Specialist
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Moaddel Law Firm
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Southern California Legal Services
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Criminal Law Office Of Steven A Seiden
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Shouse Law Group
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Ticket Clinic
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Saros Law, APC
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Office of Juanita Kay
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Aizman Law Firm
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Kraut Law Group Criminal & DUI Lawyers
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Office of Hart J Levin
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Perlmutter & Pourshalimi, Attorneys at Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:DCD Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Robert B Hakim
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Sheida Shoalehvar
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Rondee J. Eagle
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Steven K Bloom
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Alaleh Kamran
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:TKT Rep
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Parmar Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Mauro Quintero Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:A1 Accident Lawyer
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Ticket Clinic
+csv_files/with_screenshots/dui/dui_miami_with_screenshot.csv:Aston Wilson PA
+csv_files/with_screenshots/dui/dui_miami_with_screenshot.csv:TicketFit
+csv_files/with_screenshots/dui/dui_miami_with_screenshot.csv:Mayersohn Law Group
+csv_files/with_screenshots/dui/dui_nashville_with_screenshot.csv:Ryan C Davis Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Barcena Law Offices
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Offices Of Bryan R Kazarian
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Offices of Hart J Levin
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Costen Ruiz Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Fix-A-Ticket
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:McGregor Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Office of Donald R. Hammond
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The H Law Group
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Tung T Pham
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Offices Of Bryan R Kazarian
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Fix Your Ticket
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Miller Law Firm
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of David J. Givot
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Manshoory Law Group
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Kent Law Firm
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Office of Jesse A Arana
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices Of Lisa Z. Liu
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Office of Ann Gottesman
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Law Offices of John W Bussman
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:McCready Law Group - Criminal Law Specialist
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Moaddel Law Firm
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Southern California Legal Services
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Criminal Law Office Of Steven A Seiden
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Shouse Law Group
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Ticket Clinic
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Saros Law, APC
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Office of Juanita Kay
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Aizman Law Firm
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Kraut Law Group Criminal & DUI Lawyers
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Office of Hart J Levin
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Perlmutter & Pourshalimi, Attorneys at Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:DCD Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Robert B Hakim
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Sheida Shoalehvar
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Rondee J. Eagle
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Steven K Bloom
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Law Offices of Alaleh Kamran
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:TKT Rep
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Parmar Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Mauro Quintero Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:A1 Accident Lawyer
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:The Ticket Clinic
+csv_files/with_screenshots/dui/dui_miami_with_screenshot.csv:Aston Wilson PA
+csv_files/with_screenshots/dui/dui_miami_with_screenshot.csv:TicketFit
+csv_files/with_screenshots/dui/dui_miami_with_screenshot.csv:Mayersohn Law Group
+csv_files/with_screenshots/dui/dui_nashville_with_screenshot.csv:Ryan C Davis Law
+csv_files/with_screenshots/dui/dui_los_angeles_with_screenshot.csv:Barcena Law Offices

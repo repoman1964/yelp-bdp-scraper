@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+Scrapy = "*"
+scrapy-crawlera = "*"
+more-itertools = "*"
+imgkit = "*"
+Pillow = "*"
+selenium = "*"
+scrapy-splash = "*"
+Flask = "*"
+wget = "*"
+pandas = "*"
+beautifulsoup4 = "*"
+vassal = "*"
+pysftp = "*"
+cd = "*"
+plumbum = "*"
+extruct = "*"
+
+[requires]
+python_version = "3.6"
